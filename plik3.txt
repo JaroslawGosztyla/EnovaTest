@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 FEATURE2
+=======
+feature1
+>>>>>>> feature/Feature1

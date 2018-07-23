@@ -1,1 +1,5 @@
+<<<<<<< .merge_file_a08572
 FEATURE2
+=======
+feature1
+>>>>>>> .merge_file_a04452
